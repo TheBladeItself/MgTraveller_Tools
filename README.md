@@ -10,4 +10,3 @@ custom rulesets - including the MegaTraveller rules
 BOTH of these files require the following:
 * Python3
 * tkinter
-* 
