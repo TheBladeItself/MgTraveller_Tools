@@ -6,3 +6,8 @@ it also contains a tab for alien generation
 
 system_generation.py :: contains 2 tabs - one for the generation of entire solar systems, inspired by several different,
 custom rulesets - including the MegaTraveller rules
+
+BOTH of these files require the following:
+* Python3
+* tkinter
+* 
